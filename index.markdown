@@ -11,7 +11,7 @@ layout: post
 
 ## Education
 
-- **Master of Biotechnology (Advanced)** \| Australian National University \| 2020-2021
+- **Master of Biotechnology (Advanced)** \| Australian National University \| 2020-2022
 - **Bachelor of Biotechnology** \| Australian National University \| 2016-2019
 
 ## Professional Experience
