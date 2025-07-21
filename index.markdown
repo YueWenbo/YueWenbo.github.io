@@ -12,7 +12,7 @@ layout: post
 ## Education
 
 - **Master of Biotechnology (Advanced)** \| Australian National University \| 2020-2021
-- **Bachelor of Biotechnology** \| Australian National University \| 2016-2019
+- **Bachelor of Biotechnology** \| Australian National University \| 2016-2020
 
 ## Professional Experience
 
@@ -70,7 +70,6 @@ layout: post
   - Achieved high-quality chromatin profiling results through iterative protocol optimization
   - Processed and analyzed next-generation sequencing data using custom analysis workflows
   - Mastered multiple bioinformatics tools and programming languages for data processing
-  - Identified novel transcription factor binding sites through integrated analysis approach
 
 ### Teaching Experience
 
@@ -81,7 +80,7 @@ layout: post
   - Graded mathematical assignments and coding projects
 
 - **Student Supervision** \| Adamska Lab, Research School of Biology, ANU \| June 2022 - August 2022
-  - Supervised and trained a PhD student in sponge tissue processing techniques
+  - Supervised and trained a PhB student in sponge tissue processing techniques
   - Developed and optimized protocols for vibratome sectioning of fixed sponge specimens
   - Provided hands-on training and troubleshooting support for tissue preparation experiments
 
